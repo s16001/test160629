@@ -1,0 +1,10 @@
+[  137.140478] usb 1-2: New USB device found, idVendor=093a, idProduct=2510
+[  137.140563] usb 1-2: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[  137.140567] usb 1-2: Product: USB OPTICAL MOUSE
+[  137.140570] usb 1-2: Manufacturer: PIXART
+[  137.140825] usb 1-2: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[  137.217732] usbcore: registered new interface driver usbhid
+[  137.217738] usbhid: USB HID core driver
+[  137.226734] input: PIXART USB OPTICAL MOUSE as /devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2:1.0/0003:093A:2510.0002/input/input12
+[  137.231679] hid-generic 0003:093A:2510.0002: input,hidraw1: USB HID v1.11 Mouse [PIXART USB OPTICAL MOUSE] on usb-0000:00:14.0-2/input0
+[ 1147.631909] [drm:intel_pipe_update_end [i915]] *ERROR* Atomic update failure on pipe A (start=65741 end=65742) time 1357 us, min 763, max 767, scanline start 760, end 761
